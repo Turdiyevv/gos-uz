@@ -1,0 +1,11 @@
+{
+  "navbar": {
+    "home": "Bosh sahifa",
+    "cabinet": "Kabinet",
+    "language": "Til"
+  },
+  "hero": {
+    "title": "Xush kelibsiz!",
+    "subtitle": "Bu bizning platformamiz."
+  }
+}

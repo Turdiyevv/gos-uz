@@ -1,0 +1,11 @@
+{
+  "navbar": {
+    "home": "Home",
+    "cabinet": "Cabinet",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Welcome!",
+    "subtitle": "This is our platform."
+  }
+}

@@ -1,14 +1,12 @@
-import './index.css'
+import "./index.css";
+import AppRoutes from "./routes";
 
 function App() {
-
   return (
-    <>
-    <div className="flex items-center justify-center bg-blue-500 text-3xl font-bold rounded-lg text-red-500">
-      Tailwind 100% ishlayapti 🚀
+    <div className="min-h-screen bg-gray-100">
+      <AppRoutes />
     </div>
-    </>
-  )
+  );
 }
 
-export default App
+export default App;
